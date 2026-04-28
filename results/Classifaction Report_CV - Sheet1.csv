@@ -1,0 +1,10 @@
+Class,Precision,Recall,F1-Score,Support
+0,1,1,1,219639
+1,1,1,1,198373
+2,1,1,1,150337
+3,1,1,1,178115
+,,,,
+Accuracy,,,1,746464
+,,,,
+Macro Avg,1,1,1,746464
+Weighted Avg,1,1,1,746464
